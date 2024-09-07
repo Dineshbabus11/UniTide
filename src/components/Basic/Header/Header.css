@@ -1,0 +1,39 @@
+.header-main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+.header-login{
+    gap: 50px;
+    display: flex;
+}
+
+.header-name p{
+    font-size: 40px;
+    color: #A29BFE;
+    font-weight: bold;
+}
+
+.header-login p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.divtwo,ul,li{
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 28px;
+    margin-left: 28px;
+    align-items: center;
+    margin-bottom: 10px;
+}
+ul{
+    margin-left: 40px;
+}
+.divthree{
+    background-color: #dadadd;
+    width: 900px;
+    height: 500px;
+}

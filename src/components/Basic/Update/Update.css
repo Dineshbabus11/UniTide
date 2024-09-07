@@ -1,0 +1,9 @@
+.update-component{
+    background-color: #A29BFE;
+    color: white;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
