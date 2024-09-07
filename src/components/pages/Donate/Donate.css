@@ -3,3 +3,41 @@
     width: 250%;
     padding: 40px;
 }
+
+.portal-field{
+    background-color: black;
+    color: white;
+    padding: 40px;
+    margin: 40px 0px;
+    border-radius: 5px;
+}
+
+.field label{
+    font-size: 20px;
+    display: block;
+}
+
+.field input,select,textarea{
+    width: 305px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+
+.donate-btn button{
+    background-color: white;
+    border: 1px solid #A29BFE;
+    padding: 10px 20px;
+    width: 305px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #A29BFE;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.donate-btn button:hover{
+    background-color: #A29BFE;
+    color: white;
+}
