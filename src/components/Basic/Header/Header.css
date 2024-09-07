@@ -1,3 +1,11 @@
+nav{
+    margin-bottom: 20px;
+}
+
+header{
+    margin-bottom: 20px;
+}
+
 .header-main{
     display: flex;
     justify-content: space-between;
@@ -20,20 +28,10 @@
     font-size: 20px;
     font-weight: bold;
 }
-.divtwo,ul,li{
-    font-weight: bold;
+
+.divtwo{
     display: flex;
     justify-content: space-between;
-    margin-right: 28px;
-    margin-left: 28px;
-    align-items: center;
-    margin-bottom: 10px;
-}
-ul{
-    margin-left: 40px;
-}
-.divthree{
-    background-color: #dadadd;
-    width: 900px;
-    height: 500px;
+    padding: 0px 40px;
+    font-weight: bold;
 }

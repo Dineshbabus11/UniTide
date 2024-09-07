@@ -1,0 +1,34 @@
+main{
+    background-color: #DFE6E9;
+    width: 250%;
+    padding: 40px;
+}
+
+.quotes{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.quotes p{
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.quotes img{
+    width: 200px;
+    height: 200px;
+}
+
+.features{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 40px 0px;
+    border-radius: 10px;
+}
+
+.features p{
+    padding: 20px;
+    color: #A29BFE;
+}

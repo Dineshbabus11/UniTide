@@ -6,6 +6,7 @@ export const Footer = () => {
     <>
     <footer className='footer'>
         <h2>UniTide</h2>
+        <p>Designed by <span>IT</span></p>
     </footer>
     </>
   )
