@@ -16,7 +16,7 @@ export const Header = () => {
       </div>
       <div className='divtwo'>
         <p><Link to='/' className='direct-link'>Home</Link></p>
-        <p><Link to='' className='direct-link'>About</Link></p>
+        <p><Link to='/about' className='direct-link'>About</Link></p>
         <p><Link to='/donate' className='direct-link'>Donate</Link></p>
         <p><Link to='/network' className='direct-link'>Network</Link></p>
         <p>Jobs</p>
