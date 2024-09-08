@@ -5,6 +5,7 @@ import { Header } from './components/Basic/Header/Header';
 import { Update } from './components/Basic/Update/Update';
 import { Home } from './components/pages/home/Home';
 import { Donate } from './components/pages/Donate/Donate';
+import { Network } from './components/pages/network/Network';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Routes>
           <Route path='/' element={<Home/>}/>
           <Route path='/donate' element={<Donate/>}/>
+          <Route path='/network' element={<Network/>}/>
         </Routes>
         <Update/>
       </div>
